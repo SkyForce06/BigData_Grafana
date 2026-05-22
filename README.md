@@ -19,7 +19,7 @@ copy .env.example .env
 or on Linux/macOS:
 
 ```bash
-cp .env.example .env
+cp env.example .env
 ```
 
 Then put your MongoDB Atlas URI into `.env`.
